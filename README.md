@@ -1,0 +1,2 @@
+# Decim
+Personal Discord Bot
